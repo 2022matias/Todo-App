@@ -2,5 +2,23 @@
   "header": {
     "title": "Lista de tareas",
     "add-task": "Crea una nueva tarea"
+  },
+  "todoFilter": {
+    "all": "todas",
+    "active": "activas",
+    "completed": "completadas"
+  },
+  "todoComputed": {
+    "itemsLeft": "elementos restantes",
+    "clearCheckmarks": "borrar todas las marcas"
+  },
+  "dragAndDrop": "Arrastra y suelta para reordenar la lista",
+  "initialTodos": {
+    "task1": "ir al gimnasio",
+    "task2": "leer un libro",
+    "task3": "trabajar",
+    "task4": "dormir",
+    "task5": "jugar al futbol",
+    "task6": "ir al cine"
   }
 }
