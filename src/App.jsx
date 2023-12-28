@@ -23,15 +23,6 @@ function App() {
   const [idCounter, setIdCounter] = useState(6);
   const [filters, setFilters] = useState("all");
 
-  // useEffect(() => {
-  //   const updatedTodos = todos.map(todo => {
-  //     return {
-  //       ...todo,
-  //       title: t(`initialTodos.task${todo.id}`) || todo.title,
-  //     };
-  //   });
-  //   setTodos(updatedTodos);
-  // }, [i18n.language]);
   useEffect(() => {
     const updatedTodos = todos.map(todo => {
       const translationKey = `initialTodos.task${todo.id}`;

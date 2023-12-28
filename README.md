@@ -1,8 +1,19 @@
-# React + Vite
+# Proyecto ToDo-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto ha sido creado utilizando Vite, una herramienta de desarrollo web rápida para proyectos con React. A continuación, se detallan algunas de las características clave:
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Tailwind CSS:** Los estilos del proyecto se han construido utilizando Tailwind CSS, una biblioteca de utilidades de estilo de bajo nivel.
+
+2. **i18next:** Para la traducción de idiomas, este proyecto utiliza la biblioteca i18next, que proporciona una solución completa para la internacionalización.
+
+3. **Tema Oscuro/Luz:** Se ha implementado un tema oscuro y claro para brindar a los usuarios la opción de seleccionar su preferencia de modo visual.
+
+## Instrucciones de Desarrollo
+
+### Instalación
+
+```bash
+npm install
+```
