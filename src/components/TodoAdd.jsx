@@ -16,7 +16,7 @@ const TodoAdd = (props) => {
             <input
                 type="text"
                 placeholder={t("header.add-task")}
-                className="w-full outline-none mx-2 dark:bg-gray-800"
+                className="w-full outline-none mx-2 dark:bg-gray-800 dark:text-gray-300"
                 value={title}
                 onChange={(e) => setTitle(e.target.value)}
             />

@@ -2,5 +2,23 @@
   "header": {
     "title": "ToDo",
     "add-task": "create a new todo"
+  },
+  "todoFilter": {
+    "all": "all",
+    "active": "active",
+    "completed": "completed"
+  },
+  "todoComputed": {
+    "itemsLeft": "items left",
+    "clearCheckmarks": "clear all checkmarks"
+  },
+  "dragAndDrop": "Drag and drop to reorder list",
+  "initialTodos": {
+    "task1": "go to the gym",
+    "task2": "read a book",
+    "task3": "work",
+    "task4": "sleep",
+    "task5": "play soccer",
+    "task6": "go to the cinema"
   }
 }
