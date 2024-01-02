@@ -10,6 +10,8 @@ Este proyecto ha sido creado utilizando Vite, una herramienta de desarrollo web 
 
 3. **Tema Oscuro/Luz:** Se ha implementado un tema oscuro y claro para brindar a los usuarios la opción de seleccionar su preferencia de modo visual.
 
+4. **hello-pangea/dnd:** Libreria utilizada con la finalidad de poder arrastrar y soltar las tareas (drag and drop)
+
 ## Instrucciones de Desarrollo
 
 ### Instalación
@@ -18,3 +20,6 @@ Este proyecto ha sido creado utilizando Vite, una herramienta de desarrollo web 
 npm install
 ```
 
+![](./src/images/videoInicial.gif)
+
+![](./src/images/videoFinal.gif)
