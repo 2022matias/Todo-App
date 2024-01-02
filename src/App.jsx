@@ -90,8 +90,6 @@ function App() {
 
   return (
     <>
-      <button onClick={() => i18n.changeLanguage("en")}>EN</button>
-      <button onClick={() => i18n.changeLanguage("es")}>ES</button>
       <div className="bg-[url('./assets/images/bg-mobile-light.jpg')] sm:bg-[url('./assets/images/bg-desktop-light.jpg')] dark:bg-[url('./assets/images/bg-mobile-dark.jpg')] sm:dark:bg-[url('./assets/images/bg-desktop-dark.jpg')] bg-contain bg-no-repeat bg-gray-300 min-h-screen dark:bg-gray-950">
         <Header />
 
